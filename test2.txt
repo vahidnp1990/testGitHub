@@ -7,3 +7,4 @@ git push -u origin master
 
 git remote add origin https://github.com/vahidnp1990/testGitHub.git
 git push -u origin master
+edit to git lab
